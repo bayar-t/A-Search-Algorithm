@@ -1,6 +1,6 @@
 # A*-Search-Algorithm
 
-Use "python -m SimpleHTTPServer 8000" to run it locally.
+Use "python -m SimpleHTTPServer 8000" to run it locally. To access, use localhost:8000.
 
 If you get a "socket.error: [Errno 48] Address already in use" error, make sure to kill the port before re-using.
 
